@@ -13,3 +13,4 @@ wheels/
 .installed.cfg
 *.egg
 venv/
+.idea/
