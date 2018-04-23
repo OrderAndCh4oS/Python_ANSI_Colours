@@ -13,8 +13,10 @@ Install by running:
 Usage
 -----
 
-    import AnsiColours as colour from ansi_colours
+    from ansi_colours import AnsiColours as colour
+
     # Red text
+
     colour.red("I'm red")
 
 License
