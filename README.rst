@@ -1,3 +1,8 @@
+.. image:: https://codecov.io/gh/sarcoma/Python_ANSI_Colours/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/sarcoma/Python_ANSI_Colours
+.. image:: https://travis-ci.org/sarcoma/Python_ANSI_Colours.svg?branch=master
+    :target: https://travis-ci.org/sarcoma/Python_ANSI_Colours
+
 Template
 ========
 

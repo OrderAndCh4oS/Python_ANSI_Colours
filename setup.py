@@ -6,7 +6,7 @@ readme.close()
 
 setup(
     name='ansi_colours',
-    version='0.2.4',
+    version='0.2.6',
     url='https://github.com/sarcoma/Python_ANSI_Colours',
     license='MIT',
     author='sarcoma',
