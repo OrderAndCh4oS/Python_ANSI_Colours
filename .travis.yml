@@ -9,5 +9,5 @@ install:
 # command to run tests
 script:
 - coverage run -m unittest tests.test_ansi_colours
-after-success:
+after_success:
 - codecov
