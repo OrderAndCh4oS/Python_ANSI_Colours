@@ -13,16 +13,25 @@ Installation
 
 Install by running:
 
+.. code:: python
+
     pip install ansi_colours
+
+::
 
 Usage
 -----
+
+.. code:: python
+
 
     from ansi_colours import AnsiColours as colour
 
     # Red text
 
     colour.red("I'm red")
+
+::
 
 License
 -------
