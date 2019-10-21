@@ -4,7 +4,7 @@ codecov==2.0.15
 coverage==4.5.1
 idna==2.6
 pkginfo==1.4.2
-requests==2.18.4
+requests==2.20.0
 requests-toolbelt==0.8.0
 tqdm==4.23.0
 twine==1.11.0
